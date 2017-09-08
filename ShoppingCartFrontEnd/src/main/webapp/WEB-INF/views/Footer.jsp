@@ -10,22 +10,22 @@
 	<div class="navbar navbar-default navbar-fixed-bottom">
 		<div class="container-fluid">
 			<div class="navbar-text pull-left">
-				<p>&copy; 2017 Jithin Reddy</p>
+				<p>&copy; 2017 Jithin Reddy Inreddy</p>
 			</div>
 			<div class="navbar-text noStyle pull-right">
-				<a href="https://www.facebook.com/NIITCameraWorld" target="_blank">
+				<a href="https://www.facebook.com/jithinreddy15" target="_blank">
 					<i class="fa fa-facebook fa-2x"></i>
 				</a>
-				<a href="https://twitter.com/kumarsuveen" target="_blank">
+				<a href="https://twitter.com/jithinreddy15" target="_blank">
 					<i class="fa fa-twitter fa-2x"></i>
 				</a>
-				<a href="http://linkedin.com/in/svundavalli" target="_blank">
+				<a href="http://linkedin.com/in/jithinreddy15" target="_blank">
 					<i class="fa fa-linkedin fa-2x"></i>
 				</a>
-				<a href="https://plus.google.com/+SuveenkumarVundavalli" target="_blank">
+				<a href="https://plus.google.com/u/0/+JithinReddy15" target="_blank">
 					<i class="fa fa-google-plus fa-2x"></i>
 				</a>
-				<a href="https://github.com/suveenkumarchowdary" target="_blank">
+				<a href="https://github.com/JITHINREDDY" target="_blank">
 					<i class="fa fa-github fa-2x"></i>
 				</a>
 			</div>
