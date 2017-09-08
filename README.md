@@ -1,7 +1,7 @@
 # SLTProject
 Hello there,
 
-Welcome to my github. I am Suveen.
+Welcome to my github. I am Jithin.
 
 # E-Commerce Website
  This an ecommerce website which is built using spring and hibernate which makes it database independent. It is divided into two parts frontend and backend which makes it scalable.
@@ -22,7 +22,7 @@ Welcome to my github. I am Suveen.
 
  Clone its backend project or else it will not work  ! Important
 
-[Shopping website Backend ]    <https://github.com/suveenkumarchowdary/SLTProject.git>
+[Shopping website Backend ]    <https://github.com/JITHINREDDY/eCommerce_Project.git>
 
 ### Configuration
 1. Switch to the directory location where you want to clone the repository and type  command
@@ -33,7 +33,7 @@ Welcome to my github. I am Suveen.
 2. Right click on project  -> Maven -> Update Project -> check force update snapshots/releases -> Ok  , if using eclipse.
 
 3. Run all the create table queries present in databaseQueries.sql file in backend
-<https://github.com/suveenkumarchowdary/SLTProject/blob/master/ShoppingCartBackEnd/DatabaseQuerys.sql>
+<https://github.com/JITHINREDDY/eCommerce_Project/blob/master/ShoppingCartBackEnd/DatabaseQuerys.sql>
 
 
 4.Add the project to server and run the server.
@@ -59,6 +59,6 @@ Example --
 ###### All roles were played alone 
 
 ### License
-###### Suveen Kumar Vundavalli
+###### Jithin Reddy Inreddy
 
 
