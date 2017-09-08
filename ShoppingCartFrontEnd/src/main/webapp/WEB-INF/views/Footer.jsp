@@ -10,7 +10,7 @@
 	<div class="navbar navbar-default navbar-fixed-bottom">
 		<div class="container-fluid">
 			<div class="navbar-text pull-left">
-				<p>&copy; 2017 Suveen Kumar Vundavalli</p>
+				<p>&copy; 2017 Jithin Reddy</p>
 			</div>
 			<div class="navbar-text noStyle pull-right">
 				<a href="https://www.facebook.com/NIITCameraWorld" target="_blank">
