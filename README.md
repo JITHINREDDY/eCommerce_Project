@@ -59,6 +59,6 @@ Example --
 ###### All roles were played alone 
 
 ### License
-###### Jithin Reddy Inreddy
+###### Jithin Reddy Inreddy.
 
 
